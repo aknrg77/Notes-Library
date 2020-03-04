@@ -1,0 +1,2 @@
+# Notes-Library
+This College Notes Uploading System is in PHP, CSS, JavaScript, and bootstrap. Talking about the features of this system, it just contains both the admin section and the user section. The user can log in to look for various other notes/courses. While the admin can view all the users and manage them. The design of this project is pretty simple so that the user won’t find any difficulties while working on it.
